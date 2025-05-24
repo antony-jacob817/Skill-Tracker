@@ -1,7 +1,7 @@
 # 📊 SkillPulse – Self-Learning Tracker
 
 **SkillPulse** is a productivity-focused web app designed to help learners actively track and manage their self-learning journey. Built using **React** and **localStorage**, smart content suggestions, SkillPulse empowers users to take control of their time, focus, and growth — all in a lightweight, responsive interface.
-[🌐 Live Demo](https://kalendo-rho.vercel.app/)
+[🌐 Live Demo](https://skill-pulse-tau.vercel.app/)
 
 ---
 
